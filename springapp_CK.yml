@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: springappcontainer
-        image: chandandockerproject/spring-boot-mongo-app:15
+        image: chandandockerproject/spring-boot-mongo-app:VERSION
 #         resources:
 #           requests:
 #             memory: "256Mi"
